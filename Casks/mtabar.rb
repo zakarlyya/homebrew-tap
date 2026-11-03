@@ -1,6 +1,6 @@
 cask "mtabar" do
-  version "1.0.0"
-  sha256 "3b04eb774c62e283b041324b478bcd61193260e27b769978b0ae18335e431ccf"
+  version "1.0.1"
+  sha256 "c0c13063327b145daa71fa58a0750a498d9fc64e88f8fa097fb52f4c7a88f221"
 
   url "https://github.com/zakarlyya/mta/releases/download/v#{version}/MTABar.zip"
   name "MTA Bar"
